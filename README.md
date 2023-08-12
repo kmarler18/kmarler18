@@ -1,8 +1,8 @@
 Hi, I’m Kyle.
 
-I’m studying Computer Information Systems / Web Dev at Sinclair Community College in Dayton, OH. You can check out my Linkedin profile <a href="https://www.linkedin.com/in/kylemarler1/" target="_blank">here<a/>.
+I'm a developer at an Enterprise company in Ohio. You can view my Linkedin profile <a href="https://www.linkedin.com/in/kylemarler1/" target="_blank">here<a/>.
 
-I'm also a professional voice actor and session singer. You can view my work for that <a href="https://voiceofkyle.wordpress.com/" target="_blank">here<a/>. 
+I'm also a voice actor and session singer. You can view my work for that <a href="https://voiceofkyle.wordpress.com/" target="_blank">here<a/>. 
 
 
 <!---
