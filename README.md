@@ -1,4 +1,4 @@
-Hi, I’m Kyle.
+Hi, I’m Kyle. 👋
 
 I'm a developer at the University of Dayton Research Institute in Ohio. You can view my Linkedin profile <a href="https://www.linkedin.com/in/kylemarler1/" target="_blank">here<a/>.
 
